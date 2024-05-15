@@ -16,6 +16,23 @@ Cieľom tohto projektu je detekcia glaukómu pomocou techník strojového učeni
 | RIM-ONE           | 313             | 172 |
 | Spolu             | 1828            | 1032 |
 
+| Dataset (celé) | Zdravé (normal) | Glaukóm (glaucoma) |
+|----------------|-----------------|--------------------|
+| BEH            | 108             | 46                 |
+| DRISTHI-GS1    | 12              | 15                 |
+| FIVES          | 56              | 40                 |
+| G1020          | 177             | 68                 |
+| JSIEC          | 8               | 3                  |
+| EyePACS        | 2               | 767                |
+| CRFO           | 4               | 9                  |
+| LES-AV         | 4               | 3                  |
+| OIA-ODIR       | 969             | 69                 |
+| ORIGA          | 111             | 37                 |
+| PAPILA         | 66              | 18                 |
+| HRF            | 168             | 20                 |
+| REFUGE         | 69              | 25                 |
+| Spolu          | 1754            | 1120               |
+
 ## Požiadavky a inicializácia
 
 Uistite sa, že máte nainštalované nasledujúce knižnice Pythonu:
